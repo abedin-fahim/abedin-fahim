@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abedin</h1>
 <h3 align="center">Full-Stack JavaScript Developer</h3>
 
-<p align="center">Hello! I hope you're having a good day. I’m a full-stack JavaScript developer. I take great satisfaction in building unique and beautiful web applications and love the constant learning and problem solving that comes with it. I have worked with technologies like Node.js, React.js Vue.js, Vanilla Javascript, TailwindCSS, Bootstrap 4.x, and SASS. I always keep myself updated with the latest technology.</p>
+<p align="center">Hello! I hope you're having a good day. I’m a full-stack JavaScript developer. I take great satisfaction in building unique and beautiful web applications and love the constant learning and problem-solving that comes with it. I have worked with technologies like Node.js, React.js Vue.js, Vanilla Javascript, TailwindCSS, Bootstrap 4.x, and SASS. I always keep myself updated with the latest technology.</p>
 <hr>
-<p align="left"> <a href="https://twitter.com/abedin_fahim_" target="blank"><img src="https://img.shields.io/twitter/follow/abedin_fahim_?logo=twitter&style=for-the-badge" alt="abedindevsweb" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Node, Vue, React**
+- 💬 Ask me about **Node, Vue, React & Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abedin_fahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abedindevsweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joynal-abedinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joynal-abedinn" height="30" width="40" /></a>
 </p>
 

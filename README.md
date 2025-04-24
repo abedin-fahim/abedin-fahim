@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abedin</h1>
-<h3 align="center">Full-Stack JavaScript Developer</h3>
+<h3 align="center">Full-Stack JavaScript and Java Developer</h3>
 
-<p align="center">Hello! I hope you're having a good day. I’m a full-stack JavaScript developer. I take great satisfaction in building unique and beautiful web applications and love the constant learning and problem-solving that comes with it. I have worked with technologies like Node.js, React.js Vue.js, Vanilla Javascript, TailwindCSS, Bootstrap 4.x, and SASS. I always keep myself updated with the latest technology.</p>
+<p align="center">Hello! I hope you're having a good day. I’m a full-stack JavaScript and Java developer. I take great satisfaction in building unique and beautiful web applications and love the constant learning and problem-solving that comes with it. I have worked with technologies like Node.js, Express.js, Nest.js, React.js, Next.js, Vue.js, JavaScript, TypeScript, TailwindCSS, and SASS. I always keep myself updated with the latest technology.</p>
 <hr>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Nest.js**
 
 - 💬 Ask me about **Node, Vue, React & Next.js**
 
